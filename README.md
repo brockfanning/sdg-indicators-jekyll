@@ -1,7 +1,20 @@
-# Sustainable Development Goal indicators
+# sdg-indicators-jekyll
 
-[![CircleCI](https://circleci.com/gh/GSA/sdg-indicators.svg?style=svg)](https://circleci.com/gh/GSA/sdg-indicators)
+This Jekyll theme is designed to work with the sdg-indicators national reporting platform.
 
-This is a development website for collecting and disseminating US data for the Sustainable Development Goal global indicators.
+## Installation
 
-For any guidance on how to use the website, or develop it further for your own country, please refer to the [wiki](https://github.com/GSA/sdg-indicators/wiki).
+It is assumed this theme is being used via the `remote_theme` setting from the sdg-indicators repository.
+
+## Usage
+
+TODO: Write usage instructions here.
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/brockfanning/sdg-indicators-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
